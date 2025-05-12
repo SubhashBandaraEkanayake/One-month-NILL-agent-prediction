@@ -53,8 +53,22 @@ champion agents.
 1. Trained prediction model that flags One Month NILL risks (Kaggle problem will cover this).
 2. List of top factors affecting early performance.
 3. Personalized action plan recommendation system for at-risk agents.
-   
+
 **For Part 2:**
 1. Method to classify current agent performance (Low, Medium, High).
 2. Intervention strategy based on performance category.
 3. An optional progress tracker to measure changes over time.
+
+
+
+Power BI Dashboard
+
+**Previous Analysis**
+![Screenshot 2025-05-12 at 9 17 36 AM](https://github.com/user-attachments/assets/9215e030-5221-4d55-ac15-f80921628897)
+
+**Predictive Analysis**
+![Screenshot 2025-05-12 at 9 18 16 AM](https://github.com/user-attachments/assets/3e2a64e8-2a49-4804-aac3-4aeabf125a24)
+
+
+   
+
